@@ -1,4 +1,5 @@
+.DS_Store
+images/originals/*
+images/smalls/*
+favicon.psd
 __pycache__
-site/photos/originals/*
-site/photos/thumbs/*
-PLACE_PHOTOS_HERE/*
