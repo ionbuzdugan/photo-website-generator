@@ -1,0 +1,4 @@
+__pycache__
+site/photos/originals/*
+site/photos/thumbs/*
+PLACE_PHOTOS_HERE/*
