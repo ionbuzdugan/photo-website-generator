@@ -56,6 +56,7 @@ if __name__ == "__main__":
     paths_thumbs = []
     # reset_names(DIR_ORIGINALS,photosList)
     photosList = os.listdir(DIR_SOURCE)
+    photosList.remove('.gitignore')
     for i in range(0,len(photosList)):
         # Rename to No-NUMBER-MONTH_DAY_YEAR
         names.append(str('No-' + str(i+1) + '-' + NAME_SUFFIX +'.jpg'))
